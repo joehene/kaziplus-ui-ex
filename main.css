@@ -1,0 +1,97 @@
+* {
+	font-family: "Arial", sans-serif;
+
+}
+
+body {}
+
+	
+h1 {
+	font-weight: bolder;
+
+}
+
+.container {
+	padding: 70px;
+	align-content: center;
+	
+}
+
+#logo1{
+	/*margin-left: 170px;
+	margin-bottom: -70px;*/
+	width: 15%;
+    height: 0%;
+	font-size: 25px;
+	color: #FFFFFF;
+	background-color: #29ab87;
+    float:left;
+
+    
+}
+
+#logo2 {
+	
+	*float:left;
+	color: #29ab87;
+	margin-left: 10px;
+	
+}
+
+#intro {
+	font-weight: 900;
+    margin-left: 100px;
+    color: grey;
+    float: right;
+
+}
+
+.register-form {
+	width: 260px;
+	float: right;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: auto;
+    
+}
+
+.vibonyezi {
+	border: 2px solid grey;
+	outline: 0;
+    background: #ffffff;
+    width: 100%;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+.register-form button {
+	background-color:  #29ab87;
+	color: #FFFFFF;
+	font-weight: bold;
+	width: auto;
+    padding: 10px 18px;
+    -webkit-transition: all 0.3 ease;
+    outline: 0;
+    border: 0;
+}
+
+.cont {
+	padding: auto;
+	margin-top: 60px;
+	margin-left: 90px;
+	float: left;
+	width: 50%;
+	text-align: center;
+	display:flex;
+	align-content:flex-end;
+}
+
+.form {
+	align-content: center;
+	float: left;
+	margin-left: 70px;
+}
